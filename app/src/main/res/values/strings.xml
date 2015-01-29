@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Interactive Story</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_activity_hint">Enter you name to begin.</string>
+    <string name="main_activity_button_text">CLICK HERE TO START THE ADVENTURE</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+
+</resources>
